@@ -1,0 +1,24 @@
+# code-outils-formels
+Fonctionnalites
+validation de la carte: le numero de la carte doit contenir huit chiffr suivi de quatr lettre
+Validation du code : le pin doit contenir 12 chiff avec exatemen trois fois le chiffr cinq et une foi le chiffr trois
+message afficher zpres validation: acces accorde/acces refuse
+bouton effacer pour effacer une donnee
+bouton valider pour entrer une donne 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
